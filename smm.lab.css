@@ -244,8 +244,7 @@ body{
 }
 
 .social{
-	padding: 130px;
-	width: 350px;  
+	padding: 120px;
 
 }
 
@@ -378,3 +377,20 @@ body{
     margin-top: -55px;
 }
 
+
+.services{
+	color: #FF4500;
+	text-align: center;
+	 list-style: none;
+	 font-size:  18px;
+}
+
+.services1{
+	color: #FF4500;
+	text-align: center;
+	list-style: none;
+	font-size:  18px;
+    text-top: -50px;
+
+
+}
